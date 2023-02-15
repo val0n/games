@@ -1,7 +1,7 @@
 import pygame
 import sys
 pygame.init()
-
+#f
 WINDOW_WIDTH = 1200
 WINDOW_HEIGHT = 600
 FPS = 20
